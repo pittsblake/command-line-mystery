@@ -11,4 +11,4 @@ grep -A 5 "L337" vehicles
     //suspects: Joe Germuska & Jeremy Bowers
 cd membeships
 cat AAA  Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
-    Jermy bowers is suspects
+    Jermy bowers is suspect
